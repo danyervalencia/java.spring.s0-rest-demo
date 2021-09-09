@@ -19,6 +19,7 @@ public class RestDemoApplication {
 
 }
 
+// Clase persistencia temporal - sin anotaciones
 class Coffee{
 	private final String id;
 	private String name;
